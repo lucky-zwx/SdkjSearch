@@ -2,9 +2,10 @@ from urllib import request
 
 import requests
 
-API_Key = 'U7f3DErGN6QHwIdpniNSdwxR'
-Secret_Key = 'caWVapY3bVncjqGo8angbbp2U9EANXyC'
-AppID = '15145395'
+API_Key = ''
+Secret_Key = ''
+AppID = ''
+# 这三个变量是百度的人脸识别，需要自己注册使用
 
 
 def get_token():
